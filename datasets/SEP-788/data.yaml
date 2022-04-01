@@ -3,5 +3,5 @@ names:
 - Pedestrian
 - Truck
 nc: 3
-train: datasets/SEP-788_V1-1/train/images
-val: datasets/SEP-788_V1-1/valid/images
+train: ../datasets/SEP-788/train/images
+val: ../datasets/SEP-788/valid/images
