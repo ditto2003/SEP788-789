@@ -1,0 +1,7 @@
+names:
+- Car
+- Pedestrian
+- Truck
+nc: 3
+train: datasets/SEP-788_V1-1/train/images
+val: datasets/SEP-788_V1-1/valid/images
