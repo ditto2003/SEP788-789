@@ -33,8 +33,8 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 
 
 <p>
-   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample3.jpg"></a>
-   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample4.jpg"></a>
+   <src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample3.jpg"></a>
+   <src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample4.jpg"></a>
 
 
 </p>
