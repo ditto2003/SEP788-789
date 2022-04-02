@@ -45,7 +45,7 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 <br>
 
 
-## <div align="center">Hyperparameters Tune</div>
+## <div align="center">Hyperparameters Tuned</div>
 
 [Hyperparameters tune results](https://github.com/ditto2003/SEP788-789/blob/main/Hyperparameters%20tune%20results.ipynb) evaluate hyperparameters tune results.
 
