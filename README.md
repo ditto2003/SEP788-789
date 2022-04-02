@@ -32,12 +32,16 @@ SEP788-789/main_code/runs
 All the sample detected images are stored in [detect](https://github.com/ditto2003/SEP788-789/tree/main/Samples/detect)
 
 
-<p>
-   <a src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample3.jpg"></a>
-   <a src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample4.jpg"></a>
 
+<br>
+<div align="center">
+   <img src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample3.jpg"width="49%"/></a>
+   <img src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample4.jpg"width="49%"/></a>
 
-</p>
+</div>
+
+<br>
+
 
 ## <div align="center">Hyperparameters Tune</div>
 
