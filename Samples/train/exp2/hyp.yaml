@@ -13,9 +13,9 @@ obj_pw: 1.0
 iou_t: 0.2
 anchor_t: 4.0
 fl_gamma: 0.0
-hsv_h: 0.01
-hsv_s: 0.1
-hsv_v: 0.1
+hsv_h: 1
+hsv_s: 1
+hsv_v: 1
 degrees: 0.0
 translate: 0.1
 scale: 0.5
