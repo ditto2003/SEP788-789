@@ -1,6 +1,6 @@
 weights: yolov5s.pt
 cfg: ''
-data: /content/SEP788-789/datasets/SEP-788/data.yaml
+data: datasets/SEP-788_V1-1/data.yaml
 hyp: data/hyps/hyp.scratch-low.yaml
 epochs: 100
 batch_size: 16
