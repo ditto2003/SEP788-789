@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ## <div align="center">SEP788/789</div>
 Group 8 - Object Detection Project
@@ -14,7 +14,7 @@ A colab example [Quick Start Example](https://github.com/ditto2003/SEP788-789/bl
 
 ## <div align="center">Architecture of Repository</div>
 
-1. **Main code** folder contains all code, [train](https://github.com/ditto2003/SEP788-789/blob/main/main_code/train.py)and [detect](https://github.com/ditto2003/SEP788-789/blob/main/main_code/detect.py)
+1. **Main code** folder contains all code, [train](https://github.com/ditto2003/SEP788-789/blob/main/main_code/train.py) and [detect](https://github.com/ditto2003/SEP788-789/blob/main/main_code/detect.py)
 
 All train and val results will be stored in *runs* folder when running
 ```bash
@@ -32,7 +32,7 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 
 
 <p>
-   <img width="850" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
+   <img width="450" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
 </p>
 
 ## <div align="center">Hyperparameters Tune</div>
@@ -40,5 +40,5 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 [Hyperparameters tune results](https://github.com/ditto2003/SEP788-789/blob/main/Hyperparameters%20tune%20results.ipynb) evaluate hyperparameters tune results.
 
 <p>
-   <img width="850" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/metrics.JPG"></a>
+   <img width="450" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/metrics.JPG"></a>
 </p>
