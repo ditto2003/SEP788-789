@@ -4,13 +4,13 @@
 Group 8 - Object Detection Project
 
 <p>
-   <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
+   <img width="850" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
 </p>
 
 
 ## <div align="center">Quick Start Examples</div>
 
-A colab example [Quick Start Example](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) is prepared to implement the whole project. Just download and run it in the colab, it will clone the whole repository. An pre-run example is shown in it.
+A colab example [Quick Start Example](https://github.com/ditto2003/SEP788-789/blob/main/Quick%20Start%20Example.ipynb) is prepared to implement the whole project. Just download and run it in the colab, it will clone the whole repository. An pre-run example is shown in it.
 
 ## <div align="center">Architecture of Repository</div>
 
@@ -32,13 +32,13 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 
 
 <p>
-   <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
+   <img width="850" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
 </p>
 
 ## <div align="center">Hyperparameters Tune</div>
 
-[Hyperparameters tune results]() evaluate hyperparameters tune results.
+[Hyperparameters tune results](https://github.com/ditto2003/SEP788-789/blob/main/Hyperparameters%20tune%20results.ipynb) evaluate hyperparameters tune results.
 
 <p>
-   <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
+   <img width="850" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/metrics.JPG"></a>
 </p>
