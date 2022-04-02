@@ -1,11 +1,13 @@
 
 
 ## <div align="center">SEP788/789</div>
-<div align="center">Group 8 - Object Detection Project</div>
+<div align="center">**Group 8 - Object Detection Project**</div>
 
 <p>
-   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
-   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
+<div align="center">
+   <img width="49%"/ src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
+   <img width="49%"/ src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
+</div>
 </p>
 
 
