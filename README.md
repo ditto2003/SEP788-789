@@ -27,7 +27,7 @@ SEP788-789/main_code/runs
 2. **Datasets** folder contains train, validation and test data.
 3. **Samples** folder contains all pre-run both train and validation results, which are used for metrics comparision
 
-4. **Video** contains videos for test and a video detection smaple. All video detection results will be stored in *runs* folder.
+4. **Video** contains videos for test and a video detection sample. All video detection results will be stored in *runs* folder.
 
 ## <div align="center">Sample reuslts</div>
 
