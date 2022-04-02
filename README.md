@@ -1,10 +1,11 @@
 
 
 ## <div align="center">SEP788/789</div>
-Group 8 - Object Detection Project
+<div align="center">Group 8 - Object Detection Project</div>
 
 <p>
-   <img width="850" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
+   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
+   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
 </p>
 
 
@@ -32,7 +33,10 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 
 
 <p>
-   <img width="450" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
+   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample3.jpg"></a>
+   <img width="425" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample4.jpg"></a>
+
+
 </p>
 
 ## <div align="center">Hyperparameters Tune</div>
@@ -40,5 +44,7 @@ All the sample detected images are stored in [detect](https://github.com/ditto20
 [Hyperparameters tune results](https://github.com/ditto2003/SEP788-789/blob/main/Hyperparameters%20tune%20results.ipynb) evaluate hyperparameters tune results.
 
 <p>
+   <div align="center">
    <img width="450" src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/metrics.JPG"></a>
+   </div>
 </p>
