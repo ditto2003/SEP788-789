@@ -1,7 +1,7 @@
 
 
 ## <div align="center">SEP788/789</div>
-<div align="center">**Group 8 - Object Detection Project**</div>
+#<div align="center">**Group 8 - Object Detection Project**</div>
 
 <p>
 <div align="center">
